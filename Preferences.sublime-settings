@@ -1,0 +1,11 @@
+{
+	"trim_only_modified_white_space": false,
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"font_size": 12,
+	"theme": "Brogrammer.sublime-theme",
+	/*"theme": "Brogrammer.sublime-theme",*/
+  	"color_scheme": "Packages/Theme - Brogrammer/brogrammer.tmTheme",
+}
